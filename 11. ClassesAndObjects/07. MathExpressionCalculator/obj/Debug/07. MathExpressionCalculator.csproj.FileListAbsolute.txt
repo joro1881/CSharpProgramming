@@ -1,0 +1,1 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\11. ClassesAndObjects\07. MathExpressionCalculator\bin\Debug\_07.MathExpressionCalculator.exe.config
