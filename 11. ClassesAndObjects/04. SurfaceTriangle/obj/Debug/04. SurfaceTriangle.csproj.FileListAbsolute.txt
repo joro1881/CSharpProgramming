@@ -1,0 +1,6 @@
+C:\Users\Yuri\Documents\GitHub\CSharpProgramming\11. ClassesAndObjects\04. SurfaceTriangle\bin\Debug\_04.SurfaceTriangle.exe.config
+C:\Users\Yuri\Documents\GitHub\CSharpProgramming\11. ClassesAndObjects\04. SurfaceTriangle\bin\Debug\_04.SurfaceTriangle.exe
+C:\Users\Yuri\Documents\GitHub\CSharpProgramming\11. ClassesAndObjects\04. SurfaceTriangle\bin\Debug\_04.SurfaceTriangle.pdb
+C:\Users\Yuri\Documents\GitHub\CSharpProgramming\11. ClassesAndObjects\04. SurfaceTriangle\obj\Debug\04. SurfaceTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\GitHub\CSharpProgramming\11. ClassesAndObjects\04. SurfaceTriangle\obj\Debug\_04.SurfaceTriangle.exe
+C:\Users\Yuri\Documents\GitHub\CSharpProgramming\11. ClassesAndObjects\04. SurfaceTriangle\obj\Debug\_04.SurfaceTriangle.pdb

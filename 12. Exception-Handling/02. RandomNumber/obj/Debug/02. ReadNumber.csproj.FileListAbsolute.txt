@@ -1,0 +1,2 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\12. Exception-Handling\02. RandomNumber\bin\Debug\_02.RandomNumber.exe.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\12. Exception-Handling\02. RandomNumber\obj\Debug\02. ReadNumber.csprojResolveAssemblyReference.cache
