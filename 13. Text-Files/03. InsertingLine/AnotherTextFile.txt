@@ -1,0 +1,25 @@
+1. //Write 
+2. a program 
+3. tha
+4. t reads a 
+5. text
+6.  file 
+7. and 
+8. inserts 
+9. line
+10.  numbers
+11. //in 
+12. front 
+13. of 
+14. each 
+15. of 
+16. its 
+17. lines.
+18.  The 
+19. result 
+20. should 
+21. be 
+22. written to 
+23. another 
+24. text 
+25. file.
