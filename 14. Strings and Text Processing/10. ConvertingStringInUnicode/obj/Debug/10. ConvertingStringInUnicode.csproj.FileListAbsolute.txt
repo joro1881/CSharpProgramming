@@ -1,0 +1,1 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\14. Strings and Text Processing\10. ConvertingStringInUnicode\bin\Debug\_10.ConvertingStringInUnicode.exe.config

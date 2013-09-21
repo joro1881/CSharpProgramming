@@ -1,0 +1,1 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\14. Strings and Text Processing\18. ExtractingEmail\bin\Debug\_18.ExtractingEmail.exe.config

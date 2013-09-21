@@ -1,0 +1,15 @@
+Orlin			80
+River			20
+Jack			230
+Raider			30
+Bandit			130
+Frost			50
+Boomer			30deso			0
+deso			0
+des			0
+deso			0
+deso			0
+deso			0
+deso			0
+deso			20
+Gogo			100
