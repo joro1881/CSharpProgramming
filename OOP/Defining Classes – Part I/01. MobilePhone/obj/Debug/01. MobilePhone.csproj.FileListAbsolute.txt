@@ -1,0 +1,6 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part I\01. MobilePhone\bin\Debug\_01.MobilePhone.exe.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part I\01. MobilePhone\bin\Debug\_01.MobilePhone.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part I\01. MobilePhone\bin\Debug\_01.MobilePhone.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part I\01. MobilePhone\obj\Debug\01. MobilePhone.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part I\01. MobilePhone\obj\Debug\_01.MobilePhone.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part I\01. MobilePhone\obj\Debug\_01.MobilePhone.pdb
