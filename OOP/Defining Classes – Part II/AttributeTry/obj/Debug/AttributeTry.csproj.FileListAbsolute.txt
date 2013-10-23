@@ -1,0 +1,6 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\AttributeTry\bin\Debug\AttributeTry.exe.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\AttributeTry\obj\Debug\AttributeTry.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\AttributeTry\bin\Debug\AttributeTry.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\AttributeTry\bin\Debug\AttributeTry.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\AttributeTry\obj\Debug\AttributeTry.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\AttributeTry\obj\Debug\AttributeTry.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\SimpleTimer\bin\Debug\SimpleTimer.exe.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\SimpleTimer\bin\Debug\SimpleTimer.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\SimpleTimer\bin\Debug\SimpleTimer.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\SimpleTimer\obj\Debug\SimpleTimer.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\SimpleTimer\obj\Debug\SimpleTimer.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\SimpleTimer\obj\Debug\SimpleTimer.pdb

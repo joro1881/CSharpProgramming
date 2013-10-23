@@ -1,0 +1,6 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\Main\bin\Debug\Main.exe.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\Main\bin\Debug\Main.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\Main\bin\Debug\Main.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\Main\obj\Debug\SubstrinExtension.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\Main\obj\Debug\Main.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\Main\obj\Debug\Main.pdb

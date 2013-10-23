@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointThreeD", "Point3D\PointThreeD.csproj", "{94875185-EC43-4374-980B-81F1F108FF0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{77B0BDB3-BFF1-4079-8BD2-3B0C88A77C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{B9B42C17-5C17-46F4-A498-D6E8A0E24D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeTry", "AttributeTry\AttributeTry.csproj", "{2762E11E-610E-463C-8374-53D4A41258EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94875185-EC43-4374-980B-81F1F108FF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94875185-EC43-4374-980B-81F1F108FF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94875185-EC43-4374-980B-81F1F108FF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94875185-EC43-4374-980B-81F1F108FF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B0BDB3-BFF1-4079-8BD2-3B0C88A77C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B0BDB3-BFF1-4079-8BD2-3B0C88A77C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B0BDB3-BFF1-4079-8BD2-3B0C88A77C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B0BDB3-BFF1-4079-8BD2-3B0C88A77C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B42C17-5C17-46F4-A498-D6E8A0E24D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B42C17-5C17-46F4-A498-D6E8A0E24D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B42C17-5C17-46F4-A498-D6E8A0E24D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B42C17-5C17-46F4-A498-D6E8A0E24D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2762E11E-610E-463C-8374-53D4A41258EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2762E11E-610E-463C-8374-53D4A41258EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2762E11E-610E-463C-8374-53D4A41258EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2762E11E-610E-463C-8374-53D4A41258EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\IEnumerableExtension\bin\Debug\IEnumerableExtension.exe.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\IEnumerableExtension\bin\Debug\IEnumerableExtension.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\IEnumerableExtension\bin\Debug\IEnumerableExtension.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\IEnumerableExtension\obj\Debug\IEnumerableExtension.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\IEnumerableExtension\obj\Debug\IEnumerableExtension.pdb

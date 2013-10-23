@@ -1,0 +1,5 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\OOPprinciplesPart I\SocietySystem\bin\Debug\SocietySystem.exe.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\OOPprinciplesPart I\SocietySystem\bin\Debug\SocietySystem.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\OOPprinciplesPart I\SocietySystem\bin\Debug\SocietySystem.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\OOPprinciplesPart I\SocietySystem\obj\Debug\SocietySystem.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\OOPprinciplesPart I\SocietySystem\obj\Debug\SocietySystem.pdb

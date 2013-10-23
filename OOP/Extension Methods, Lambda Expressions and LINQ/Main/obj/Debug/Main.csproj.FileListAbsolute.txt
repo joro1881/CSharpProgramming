@@ -1,0 +1,1 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\Main\bin\Debug\Main.exe.config

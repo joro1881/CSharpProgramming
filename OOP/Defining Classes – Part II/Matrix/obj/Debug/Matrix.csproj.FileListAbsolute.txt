@@ -1,0 +1,6 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\Matrix\bin\Debug\Matrix.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\Matrix\obj\Debug\Matrix.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Defining Classes – Part II\Matrix\obj\Debug\Matrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\EventTimer\bin\Debug\EventTimer.exe.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\EventTimer\bin\Debug\EventTimer.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\EventTimer\bin\Debug\EventTimer.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\EventTimer\obj\Debug\EventTimer.exe
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\Extension Methods, Lambda Expressions and LINQ\EventTimer\obj\Debug\EventTimer.pdb
